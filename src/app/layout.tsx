@@ -1,17 +1,25 @@
+// src/app/layout.tsx
+
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Inter } from "next/font/google"; // <--- Thay thế Geist/Geist_Mono bằng Inter
 import "./globals.css";
 import Navbar from "../components/nav-bar";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+// Định nghĩa font Inter
+const inter = Inter({
   subsets: ["latin"],
+  variable: "--font-inter", // Đặt biến CSS cho font Inter (tùy chọn)
+  display: 'swap', // <--- Thêm display: 'swap' để cải thiện hiệu suất tải font
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+// Nếu bạn muốn dùng một font mono khác, ví dụ: Roboto Mono
+// import { Roboto_Mono } from "next/font/google";
+// const robotoMono = Roboto_Mono({
+//   subsets: ["latin"],
+//   variable: "--font-roboto-mono",
+//   display: 'swap',
+// });
+
 
 export const metadata: Metadata = {
   title: "Mai Thanh Thắng",
@@ -25,9 +33,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head />
+      <head /> {/* Thẻ head ở đây là không cần thiết trong App Router */}
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        // Sử dụng biến CSS của font mới. Nếu bạn không dùng biến, bạn có thể áp dụng trực tiếp class CSS
+        className={`${inter.variable} antialiased`}
+        // Hoặc nếu không dùng variable, bạn có thể dùng:
+        // className={`${inter.className} antialiased`}
       >
         <Navbar />
         {children}
