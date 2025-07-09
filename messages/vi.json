@@ -1,0 +1,69 @@
+{
+  "Index": {
+    "hello": "Xin chào! Tôi là",
+    "name": "Thắng",
+    "subtitle": "Một Kỹ sư phần mềm đam mê xây dựng các ứng dụng web hiệu suất cao và trải nghiệm người dùng tuyệt vời.",
+    "exploreProjects": "Khám phá Dự án của tôi",
+    "contactMe": "Liên hệ tôi",
+    "mySkills": "Kỹ năng của tôi",
+    "featuredProjects": "Các dự án nổi bật",
+    "experienceAndEducation": "Kinh nghiệm & Học vấn",
+    "experience": "Kinh nghiệm",
+    "education": "Học vấn",
+    "contactMeSection": "Liên hệ tôi",
+    "contactInfo": "Thông tin liên hệ",
+    "sendMessage": "Gửi tin nhắn cho tôi",
+    "yourName": "Tên của bạn",
+    "yourEmail": "Email của bạn",
+    "message": "Tin nhắn",
+    "send": "Gửi tin nhắn"
+  },
+  "Skills": {
+    "programmingLanguages": "Ngôn ngữ lập trình",
+    "frameworksLibraries": "Frameworks & Thư viện",
+    "databases": "Cơ sở dữ liệu",
+    "devopsCloud": "DevOps & Cloud",
+    "toolsOthers": "Công cụ & Khác"
+  },
+  "ProjectTitles": {
+    "ecommercePlatform": "Nền tảng Thương mại điện tử",
+    "taskManagementSystem": "Hệ thống Quản lý Nhiệm vụ",
+    "personalBlog": "Blog cá nhân với Markdown",
+    "dataVisualizationTool": "Công cụ Trực quan hóa Dữ liệu"
+  },
+  "ProjectDescriptions": {
+    "ecommercePlatformDesc": "Một ứng dụng thương mại điện tử đầy đủ tính năng với thanh toán, quản lý sản phẩm và xác thực người dùng.",
+    "taskManagementSystemDesc": "Ứng dụng quản lý nhiệm vụ kéo thả đơn giản và hiệu quả, hỗ trợ cộng tác thời gian thực.",
+    "personalBlogDesc": "Nền tảng blog cá nhân được xây dựng trên Next.js, hỗ trợ viết bài bằng Markdown và tối ưu SEO.",
+    "dataVisualizationToolDesc": "Một công cụ trực quan hóa dữ liệu tương tác, cho phép người dùng upload CSV và tạo biểu đồ tùy chỉnh."
+  },
+  "ExperienceTitles": {
+    "softwareEngineer": "Kỹ sư phần mềm",
+    "webDevIntern": "Thực tập sinh Phát triển Web"
+  },
+  "ExperienceDescriptions": {
+    "softwareEngineerDesc1": "Phát triển và duy trì các tính năng frontend sử dụng React và Next.js cho ứng dụng SaaS chính.",
+    "softwareEngineerDesc2": "Tối ưu hóa hiệu suất ứng dụng, giảm thời gian tải trang 20% thông qua tối ưu hóa bundle và lazy loading.",
+    "softwareEngineerDesc3": "Làm việc chặt chẽ với đội ngũ backend để thiết kế và tích hợp các API RESTful.",
+    "softwareEngineerDesc4": "Tham gia vào quá trình đánh giá mã (code review) và duy trì chất lượng mã nguồn cao.",
+    "webDevInternDesc1": "Xây dựng các thành phần UI/UX mới với Vue.js và Tailwind CSS.",
+    "webDevInternDesc2": "Hỗ trợ sửa lỗi và triển khai các bản vá nhỏ cho hệ thống hiện có.",
+    "webDevInternDesc3": "Tìm hiểu và áp dụng quy trình phát triển Agile."
+  },
+  "EducationTitles": {
+    "bscComputerScience": "Cử nhân Khoa học Máy tính"
+  },
+  "EducationAchievements": {
+    "thesis": "Luận văn tốt nghiệp: \"Xây dựng hệ thống khuyến nghị sản phẩm sử dụng Machine Learning\".",
+    "codingClub": "Thành viên tích cực của Câu lạc bộ Lập trình trường."
+  },
+  "Footer": {
+    "rightsReserved": "Tất cả quyền được bảo lưu."
+  },
+  "Navigation": {
+    "home": "Giới thiệu",
+    "blog": "Bài viết",
+    "projects": "Dự án",
+    "contact": "Liên hệ"
+  }
+}

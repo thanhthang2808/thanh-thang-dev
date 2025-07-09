@@ -1,0 +1,69 @@
+{
+  "Index": {
+    "hello": "Hi! I'm",
+    "name": "Thang",
+    "subtitle": "A passionate Software Engineer building high-performance web applications and great user experiences.",
+    "exploreProjects": "Explore My Projects",
+    "contactMe": "Contact Me",
+    "mySkills": "My Skills",
+    "featuredProjects": "Featured Projects",
+    "experienceAndEducation": "Experience & Education",
+    "experience": "Experience",
+    "education": "Education",
+    "contactMeSection": "Contact Me",
+    "contactInfo": "Contact Information",
+    "sendMessage": "Send Me a Message",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "message": "Message",
+    "send": "Send Message"
+  },
+  "Skills": {
+    "programmingLanguages": "Programming Languages",
+    "frameworksLibraries": "Frameworks & Libraries",
+    "databases": "Databases",
+    "devopsCloud": "DevOps & Cloud",
+    "toolsOthers": "Tools & Others"
+  },
+  "ProjectTitles": {
+    "ecommercePlatform": "E-commerce Platform",
+    "taskManagementSystem": "Task Management System",
+    "personalBlog": "Personal Blog with Markdown",
+    "dataVisualizationTool": "Data Visualization Tool"
+  },
+  "ProjectDescriptions": {
+    "ecommercePlatformDesc": "A full-featured e-commerce application with payments, product management, and user authentication.",
+    "taskManagementSystemDesc": "A simple and efficient drag-and-drop task management application with real-time collaboration.",
+    "personalBlogDesc": "A personal blogging platform built on Next.js, supporting Markdown writing and SEO optimization.",
+    "dataVisualizationToolDesc": "An interactive data visualization tool, allowing users to upload CSV and create custom charts."
+  },
+  "ExperienceTitles": {
+    "softwareEngineer": "Software Engineer",
+    "webDevIntern": "Web Development Intern"
+  },
+  "ExperienceDescriptions": {
+    "softwareEngineerDesc1": "Developed and maintained frontend features using React and Next.js for the core SaaS application.",
+    "softwareEngineerDesc2": "Optimized application performance, reducing page load times by 20% through bundle optimization and lazy loading.",
+    "softwareEngineerDesc3": "Worked closely with the backend team to design and integrate RESTful APIs.",
+    "softwareEngineerDesc4": "Participated in code reviews and maintained high code quality.",
+    "webDevInternDesc1": "Built new UI/UX components with Vue.js and Tailwind CSS.",
+    "webDevInternDesc2": "Assisted in debugging and deploying minor patches to existing systems.",
+    "webDevInternDesc3": "Learned and applied Agile development methodologies."
+  },
+  "EducationTitles": {
+    "bscComputerScience": "Bachelor of Science in Computer Science"
+  },
+  "EducationAchievements": {
+    "thesis": "Graduation Thesis: \"Building a Product Recommendation System using Machine Learning\".",
+    "codingClub": "Active member of the University Programming Club."
+  },
+  "Footer": {
+    "rightsReserved": "All rights reserved."
+  },
+  "Navigation": {
+    "home": "Home",
+    "blog": "Blog",
+    "projects": "Projects",
+    "contact": "Contact"
+  }
+}
