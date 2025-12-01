@@ -24,7 +24,7 @@ const projectsData = [
     githubLink: 'https://github.com/your-username/task-manager-app',
   },
   {
-    title: 'Blog cá nhân với Markdown',
+    title: 'Blog cá nhân',
     description: 'Nền tảng blog cá nhân được xây dựng trên Next.js, hỗ trợ viết bài bằng Markdown và tối ưu SEO.',
     techStack: ['Next.js', 'MDX', 'Tailwind CSS', 'Vercel'],
     imageUrl: '/images/project-blog.jpg',
